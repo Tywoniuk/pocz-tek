@@ -1,0 +1,2 @@
+# pocz-tek
+pierwsze kroki
